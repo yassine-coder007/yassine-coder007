@@ -102,7 +102,7 @@
   
 ###  Dev Card 💻
 
-<a href="https://app.daily.dev/yassine007"><img src="https://api.daily.dev/devcards/87b2628402a04deaa724a08e80b25c35.png?r=1kq" width="400" alt="Ben Romdhane Mohamed Yassin's Dev Card"/></a>
+<a href="https://app.daily.dev/yassinebenromdh"><img src="https://api.daily.dev/devcards/v2/ze0neNbKwfPBP7IWtuplP.png?type=default&r=nrb" width="356" alt="Ben Romdhane Mohamed Yassin's Dev Card"/></a>
   </div>
 <hr>
 <h3 align="center">Connect with me:</h3>
